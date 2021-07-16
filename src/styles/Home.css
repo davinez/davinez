@@ -1,0 +1,49 @@
+/*
+  ========================================
+  Home Page
+  ========================================
+*/
+
+.home-background {
+  width: 100%;
+  height: 100%;
+  background-image: url('../assets/space.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.home-container {
+  margin-top: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.2rem;
+}
+
+.home-container > h1 {
+  color: white;
+  flex-basis: 100%;
+  text-align: center;
+  font-size: 2.6rem;
+}
+
+.home-title-span {
+  color: rgb(20, 180, 220);
+}
+
+.home-container > a {
+  flex-basis: 5%;
+}
+
+.home-image {
+  width: 100%;
+}
+
+/*
+  ========================================
+  Media Query
+  ========================================
+*/
+
+@media (max-width: 768px) {
+}
