@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/davinez/static/css/main.d4df8470.chunk.css",
-    "main.js": "/davinez/static/js/main.43d7b79c.chunk.js",
-    "main.js.map": "/davinez/static/js/main.43d7b79c.chunk.js.map",
+    "main.js": "/davinez/static/js/main.759e5b33.chunk.js",
+    "main.js.map": "/davinez/static/js/main.759e5b33.chunk.js.map",
     "runtime-main.js": "/davinez/static/js/runtime-main.b302c605.js",
     "runtime-main.js.map": "/davinez/static/js/runtime-main.b302c605.js.map",
     "static/js/2.21502a58.chunk.js": "/davinez/static/js/2.21502a58.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.b302c605.js",
     "static/js/2.21502a58.chunk.js",
     "static/css/main.d4df8470.chunk.css",
-    "static/js/main.43d7b79c.chunk.js"
+    "static/js/main.759e5b33.chunk.js"
   ]
 }
