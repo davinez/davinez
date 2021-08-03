@@ -11,8 +11,10 @@ export const About = () => {
         In my free time I build computers and I like to read about new
         technological trends in different areas such as mechanics, electronics
         and programming. I'm a Web Developer with a current tech stack that
-        includes HTML5, CSS3, Javascript, React/Redux, Bootstrap
+        includes HTML5, CSS3, Javascript and Node.js
       </p>
+      <p>Front-End Frameworks and libraries: React.js, Redux, Bootstrap</p>
+      <p>Back-End Frameworks and libraries: Express.js, handlebars.js</p>
       <div className="about-interests">
         <h2 className="about-title interests-title">Interests</h2>
         <img src={book} alt="Book icon" />
