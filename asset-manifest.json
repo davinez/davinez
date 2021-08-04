@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/davinez/static/css/main.d4df8470.chunk.css",
-    "main.js": "/davinez/static/js/main.759e5b33.chunk.js",
-    "main.js.map": "/davinez/static/js/main.759e5b33.chunk.js.map",
+    "main.js": "/davinez/static/js/main.4d98b09a.chunk.js",
+    "main.js.map": "/davinez/static/js/main.4d98b09a.chunk.js.map",
     "runtime-main.js": "/davinez/static/js/runtime-main.b302c605.js",
     "runtime-main.js.map": "/davinez/static/js/runtime-main.b302c605.js.map",
     "static/js/2.21502a58.chunk.js": "/davinez/static/js/2.21502a58.chunk.js",
@@ -13,22 +13,22 @@
     "static/media/book.23a71387.svg": "/davinez/static/media/book.23a71387.svg",
     "static/media/cafe.acab0be0.svg": "/davinez/static/media/cafe.acab0be0.svg",
     "static/media/controller.851a68a7.svg": "/davinez/static/media/controller.851a68a7.svg",
+    "static/media/cvbuilder.7c4ebb71.png": "/davinez/static/media/cvbuilder.7c4ebb71.png",
     "static/media/github.22e65707.svg": "/davinez/static/media/github.22e65707.svg",
+    "static/media/libraryexpress.06c2176e.png": "/davinez/static/media/libraryexpress.06c2176e.png",
     "static/media/linkedin.2eda7bdd.svg": "/davinez/static/media/linkedin.2eda7bdd.svg",
+    "static/media/memory.a623b8e0.png": "/davinez/static/media/memory.a623b8e0.png",
     "static/media/music.d59aa865.svg": "/davinez/static/media/music.d59aa865.svg",
-    "static/media/project1.38897aa1.png": "/davinez/static/media/project1.38897aa1.png",
-    "static/media/project2.a623b8e0.png": "/davinez/static/media/project2.a623b8e0.png",
-    "static/media/project3.7c4ebb71.png": "/davinez/static/media/project3.7c4ebb71.png",
-    "static/media/project4.eb995991.png": "/davinez/static/media/project4.eb995991.png",
-    "static/media/project5.12460309.png": "/davinez/static/media/project5.12460309.png",
-    "static/media/project6.067ad5bb.png": "/davinez/static/media/project6.067ad5bb.png",
+    "static/media/shopping.38897aa1.png": "/davinez/static/media/shopping.38897aa1.png",
     "static/media/Home.css": "/davinez/static/media/space.717ecc48.jpg",
+    "static/media/tictac.067ad5bb.png": "/davinez/static/media/tictac.067ad5bb.png",
+    "static/media/todo.eb995991.png": "/davinez/static/media/todo.eb995991.png",
     "static/media/tv.2b00271e.svg": "/davinez/static/media/tv.2b00271e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b302c605.js",
     "static/js/2.21502a58.chunk.js",
     "static/css/main.d4df8470.chunk.css",
-    "static/js/main.759e5b33.chunk.js"
+    "static/js/main.4d98b09a.chunk.js"
   ]
 }
