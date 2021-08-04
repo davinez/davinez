@@ -7,12 +7,12 @@ import github from './github.svg';
 import linkedin from './linkedin.svg';
 import music from './music.svg';
 import tv from './tv.svg';
-import project1 from './project1.png';
-import project2 from './project2.png';
-import project3 from './project3.png';
-import project4 from './project4.png';
-import project5 from './project5.png';
-import project6 from './project6.png';
+import todo from './todo.png';
+import tictac from './tictac.png';
+import cvbuilder from './cvbuilder.png';
+import shopping from './shopping.png';
+import memory from './memory.png';
+import libraryexpress from './libraryexpress.png';
 
 export {
   book,
@@ -22,10 +22,10 @@ export {
   linkedin,
   music,
   tv,
-  project1,
-  project2,
-  project3,
-  project4,
-  project5,
-  project6,
+  todo,
+  tictac,
+  cvbuilder,
+  shopping,
+  memory,
+  libraryexpress,
 };

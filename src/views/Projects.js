@@ -1,19 +1,36 @@
 import '../styles/Projects.css';
 import React from 'react';
 import {
-  project1,
-  project2,
-  project3,
-  project4,
-  project5,
-  project6,
+  shopping,
+  todo,
+  memory,
+  cvbuilder,
+  tictac,
+  libraryexpress,
 } from '../assets/index';
 
 export const Projects = () => {
   return (
     <main className="projects-container">
       <div className="project-card">
-        <img src={project1} alt="Project Shopping cart Screenshot" />
+        <img src={libraryexpress} alt="Project Local library Screenshot" />
+        <a
+          href="https://davinezlibrary.herokuapp.com/catalog"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="projects-link"
+        >
+          Local Library
+        </a>
+        <ul className="projects-list">
+          <li>Developed with express.js</li>
+          <li>Use of Mongoose</li>
+          <li>Using MongoDB Atlas as a cloud database</li>
+        </ul>
+      </div>
+
+      <div className="project-card">
+        <img src={shopping} alt="Project Shopping cart Screenshot" />
         <a
           href="https://shopping-cart-davoworld.herokuapp.com/"
           target="_blank"
@@ -31,7 +48,7 @@ export const Projects = () => {
       </div>
 
       <div className="project-card">
-        <img src={project2} alt="Project memory card game Screenshot" />
+        <img src={memory} alt="Project memory card game Screenshot" />
         <a
           href="https://davinez.github.io/memory-card-game/"
           target="_blank"
@@ -47,7 +64,7 @@ export const Projects = () => {
       </div>
 
       <div className="project-card">
-        <img src={project3} alt="Project CV Builder Screenshot" />
+        <img src={cvbuilder} alt="Project CV Builder Screenshot" />
         <a
           href="https://davinez.github.io/cv-builder-react/"
           target="_blank"
@@ -63,7 +80,7 @@ export const Projects = () => {
       </div>
 
       <div className="project-card">
-        <img src={project4} alt="Project ToDo Screenshot" />
+        <img src={todo} alt="Project ToDo Screenshot" />
         <a
           href="https://davinez.github.io/ToDo-List/"
           target="_blank"
@@ -79,22 +96,7 @@ export const Projects = () => {
       </div>
 
       <div className="project-card">
-        <img src={project5} alt="Project static website Screenshot" />
-        <a
-          href="https://davinez.github.io/restaurant-page/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="projects-link"
-        >
-          Restaurant Website
-        </a>
-        <ul className="projects-list">
-          <li>Static website with vanilla JS for conditional rendering</li>
-        </ul>
-      </div>
-
-      <div className="project-card">
-        <img src={project6} alt="Project tic-tac Screenshot" />
+        <img src={tictac} alt="Project tic-tac Screenshot" />
         <a
           href="https://davinez.github.io/Tic-Tac-Toe/"
           target="_blank"
