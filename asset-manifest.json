@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/davinez/static/css/main.d4df8470.chunk.css",
-    "main.js": "/davinez/static/js/main.10a19ad3.chunk.js",
-    "main.js.map": "/davinez/static/js/main.10a19ad3.chunk.js.map",
+    "main.js": "/davinez/static/js/main.2cc1284a.chunk.js",
+    "main.js.map": "/davinez/static/js/main.2cc1284a.chunk.js.map",
     "runtime-main.js": "/davinez/static/js/runtime-main.b302c605.js",
     "runtime-main.js.map": "/davinez/static/js/runtime-main.b302c605.js.map",
-    "static/js/2.21502a58.chunk.js": "/davinez/static/js/2.21502a58.chunk.js",
-    "static/js/2.21502a58.chunk.js.map": "/davinez/static/js/2.21502a58.chunk.js.map",
+    "static/js/2.5ee12706.chunk.js": "/davinez/static/js/2.5ee12706.chunk.js",
+    "static/js/2.5ee12706.chunk.js.map": "/davinez/static/js/2.5ee12706.chunk.js.map",
     "index.html": "/davinez/index.html",
     "static/css/main.d4df8470.chunk.css.map": "/davinez/static/css/main.d4df8470.chunk.css.map",
-    "static/js/2.21502a58.chunk.js.LICENSE.txt": "/davinez/static/js/2.21502a58.chunk.js.LICENSE.txt",
+    "static/js/2.5ee12706.chunk.js.LICENSE.txt": "/davinez/static/js/2.5ee12706.chunk.js.LICENSE.txt",
     "static/media/book.23a71387.svg": "/davinez/static/media/book.23a71387.svg",
     "static/media/cafe.acab0be0.svg": "/davinez/static/media/cafe.acab0be0.svg",
     "static/media/controller.851a68a7.svg": "/davinez/static/media/controller.851a68a7.svg",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b302c605.js",
-    "static/js/2.21502a58.chunk.js",
+    "static/js/2.5ee12706.chunk.js",
     "static/css/main.d4df8470.chunk.css",
-    "static/js/main.10a19ad3.chunk.js"
+    "static/js/main.2cc1284a.chunk.js"
   ]
 }
