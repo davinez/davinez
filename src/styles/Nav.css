@@ -1,3 +1,11 @@
+.top-navbar a,
+.top-navbar a:active,
+.top-navbar a:hover,
+.top-navbar a:visited {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
 /*
   ========================================
   Navbar

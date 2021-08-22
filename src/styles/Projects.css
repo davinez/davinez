@@ -1,3 +1,13 @@
+.project-card a,
+.project-card a:active,
+.project-card a:visited {
+  color: rgb(37, 106, 129);
+}
+
+.project-card a:hover {
+  color: rgb(23, 59, 80);
+}
+
 /*
   ========================================
   Projects Page
@@ -9,8 +19,7 @@
   padding-bottom: 3.5rem;
   display: flex;
   flex-flow: row wrap;
-  justify-content: center;
-  gap: 1.4rem;
+  gap: 2rem;
 }
 
 .project-card {
@@ -57,6 +66,7 @@
 @media (max-width: 768px) {
   .projects-container {
     margin-top: 1.8rem;
+    padding-left: 1.8rem;
   }
 
   .projects-list {

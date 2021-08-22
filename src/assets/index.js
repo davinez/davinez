@@ -13,6 +13,7 @@ import cvbuilder from './cvbuilder.png';
 import shopping from './shopping.png';
 import memory from './memory.png';
 import libraryexpress from './libraryexpress.png';
+import inventory from './inventory.png';
 
 export {
   book,
@@ -28,4 +29,5 @@ export {
   shopping,
   memory,
   libraryexpress,
+  inventory,
 };

@@ -7,11 +7,31 @@ import {
   cvbuilder,
   tictac,
   libraryexpress,
+  inventory,
 } from '../assets/index';
 
 export const Projects = () => {
   return (
     <main className="projects-container">
+      <div className="project-card">
+        <img src={inventory} alt="Project Inventory Screenshot" />
+        <a
+          href="https://davinez-mern-inventory.netlify.app"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="projects-link"
+        >
+          Inventory App MERN Stack
+        </a>
+        <ul className="projects-list">
+          <li>Developed with Express.js for server and React.js for client</li>
+          <li>Use of MongoDB</li>
+          <li>react-bootstrap libray for UI</li>
+          <li>The website implements basic CRUD operations</li>
+          <li>Use of MVC design pattern</li>
+        </ul>
+      </div>
+
       <div className="project-card">
         <img src={libraryexpress} alt="Project Local library Screenshot" />
         <a
@@ -26,6 +46,7 @@ export const Projects = () => {
           <li>Developed with express.js</li>
           <li>Use of Mongoose</li>
           <li>Using MongoDB Atlas as a cloud database</li>
+          <li>Using Handlebars.js for server-side rendering (SSR)</li>
         </ul>
       </div>
 
