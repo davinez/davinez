@@ -14,11 +14,13 @@ export const About = () => {
         includes HTML5, CSS3, Javascript and Node.js
       </p>
       <p className="about-content">
-        Front-End Frameworks and libraries: React.js, Redux, Bootstrap
+        Front-End Frameworks and libraries: React.js, Redux, Bootstrap,
+        react-bootstrap
       </p>
       <p className="about-content">
-        Back-End Frameworks and libraries: Express.js, handlebars.js
+        Back-End Frameworks and libraries: Express.js, handlebars.js, Mongoose
       </p>
+      <p className="about-content">Database: MongoDB, MySQL</p>
       <div className="about-interests">
         <h2 className="about-title interests-title">Interests</h2>
         <img src={book} alt="Book icon" />
