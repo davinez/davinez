@@ -3,11 +3,10 @@ import React from 'react';
 import {
   shopping,
   todo,
-  memory,
   cvbuilder,
-  tictac,
   libraryexpress,
   inventory,
+  auth,
 } from '../assets/index';
 
 export const Projects = () => {
@@ -43,10 +42,27 @@ export const Projects = () => {
           Local Library
         </a>
         <ul className="projects-list">
-          <li>Developed with express.js</li>
+          <li>Developed with Express.js</li>
           <li>Use of Mongoose</li>
           <li>Using MongoDB Atlas as a cloud database</li>
           <li>Using Handlebars.js for server-side rendering (SSR)</li>
+        </ul>
+      </div>
+
+      <div className="project-card">
+        <img src={auth} alt="Project JWT MERN Screenshot" />
+        <a
+          href="https://davinez-mern-auth.netlify.app"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="projects-link"
+        >
+          MERN JWT Authentication
+        </a>
+        <ul className="projects-list">
+          <li>User Authentication and Authorization using JSON Web Token</li>
+          <li>Developed with Expres/React/MongoDB</li>
+          <li>To test access you can use 'admin1' 'pass2'</li>
         </ul>
       </div>
 
@@ -65,22 +81,6 @@ export const Projects = () => {
           <li>React for user interface and Context API for state management</li>
           <li>Used react-router</li>
           <li>Used local JSON file to render shop items</li>
-        </ul>
-      </div>
-
-      <div className="project-card">
-        <img src={memory} alt="Project memory card game Screenshot" />
-        <a
-          href="https://davinez.github.io/memory-card-game/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="projects-link"
-        >
-          Memory Card Game
-        </a>
-        <ul className="projects-list">
-          <li>React for user interface</li>
-          <li>Hooks for state management</li>
         </ul>
       </div>
 
@@ -113,21 +113,6 @@ export const Projects = () => {
         <ul className="projects-list">
           <li>Vanilla Javascript for user interface</li>
           <li>DOM manipulation with vanilla JS</li>
-        </ul>
-      </div>
-
-      <div className="project-card">
-        <img src={tictac} alt="Project tic-tac Screenshot" />
-        <a
-          href="https://davinez.github.io/Tic-Tac-Toe/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="projects-link"
-        >
-          Tic Tac Toe Game
-        </a>
-        <ul className="projects-list">
-          <li>Used Vanilla Javascript for dynamic user interfacer</li>
         </ul>
       </div>
     </main>

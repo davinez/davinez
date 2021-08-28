@@ -8,12 +8,11 @@ import linkedin from './linkedin.svg';
 import music from './music.svg';
 import tv from './tv.svg';
 import todo from './todo.png';
-import tictac from './tictac.png';
 import cvbuilder from './cvbuilder.png';
 import shopping from './shopping.png';
-import memory from './memory.png';
 import libraryexpress from './libraryexpress.png';
 import inventory from './inventory.png';
+import auth from './auth.png';
 
 export {
   book,
@@ -24,10 +23,9 @@ export {
   music,
   tv,
   todo,
-  tictac,
   cvbuilder,
   shopping,
-  memory,
   libraryexpress,
   inventory,
+  auth,
 };

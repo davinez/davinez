@@ -7,7 +7,7 @@ export const Home = () => {
     <main className="home-background">
       <div className="home-container">
         <h1>
-          Web <span className="home-title-span">Developer</span>
+          Software <span className="home-title-span">Developer</span>
         </h1>
         <a
           href="https://linkedin.com/in/david-narvaez-ibañez-12b446217"
