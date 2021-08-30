@@ -7,6 +7,7 @@ import {
   libraryexpress,
   inventory,
   auth,
+  github,
 } from '../assets/index';
 
 export const Projects = () => {
@@ -29,6 +30,13 @@ export const Projects = () => {
           <li>The website implements basic CRUD operations</li>
           <li>Use of MVC design pattern</li>
         </ul>
+        <a
+          href="https://github.com/davinez/mern-inventoryapp"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src={github} alt="GitHub icon" className="github-image" />
+        </a>
       </div>
 
       <div className="project-card">
@@ -47,6 +55,13 @@ export const Projects = () => {
           <li>Using MongoDB Atlas as a cloud database</li>
           <li>Using Handlebars.js for server-side rendering (SSR)</li>
         </ul>
+        <a
+          href="https://github.com/davinez/library_express"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src={github} alt="GitHub icon" className="github-image" />
+        </a>
       </div>
 
       <div className="project-card">
@@ -64,6 +79,13 @@ export const Projects = () => {
           <li>Developed with Expres/React/MongoDB</li>
           <li>To test access you can use 'admin1' 'pass2'</li>
         </ul>
+        <a
+          href="https://github.com/davinez/mern-auth"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src={github} alt="GitHub icon" className="github-image" />
+        </a>
       </div>
 
       <div className="project-card">
@@ -82,6 +104,13 @@ export const Projects = () => {
           <li>Used react-router</li>
           <li>Used local JSON file to render shop items</li>
         </ul>
+        <a
+          href="https://github.com/davinez/shopping-cart-react"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src={github} alt="GitHub icon" className="github-image" />
+        </a>
       </div>
 
       <div className="project-card">
@@ -98,6 +127,13 @@ export const Projects = () => {
           <li>React for user interface</li>
           <li>Used Class Components</li>
         </ul>
+        <a
+          href="https://github.com/davinez/cv-builder-react"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src={github} alt="GitHub icon" className="github-image" />
+        </a>
       </div>
 
       <div className="project-card">
@@ -114,6 +150,13 @@ export const Projects = () => {
           <li>Vanilla Javascript for user interface</li>
           <li>DOM manipulation with vanilla JS</li>
         </ul>
+        <a
+          href="https://github.com/davinez/ToDo-List"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src={github} alt="GitHub icon" className="github-image" />
+        </a>
       </div>
     </main>
   );
