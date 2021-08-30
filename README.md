@@ -1,4 +1,5 @@
 # Hello! I'm David Narvaez
 
-Web developer with a current tech stack in Javascript (React) and Node.js (Express).
+Software developer with a current tech stack in Javascript (React)| Node.js (Express) | MongoDB|MySQL.
+
 I'm based in Mexico City
