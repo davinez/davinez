@@ -1,14 +1,6 @@
 import '../styles/Projects.css';
 import React from 'react';
-import {
-  shopping,
-  todo,
-  cvbuilder,
-  libraryexpress,
-  inventory,
-  auth,
-  github,
-} from '../assets/index';
+import { shopping, libraryexpress, inventory, github } from '../assets/index';
 
 export const Projects = () => {
   return (
@@ -30,11 +22,7 @@ export const Projects = () => {
           <li>The website implements basic CRUD operations</li>
           <li>Use of MVC design pattern</li>
         </ul>
-        <a
-          href="https://github.com/davinez/mern-inventoryapp"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="https://github.com/davinez/mern-inventoryapp" target="_blank" rel="noopener noreferrer">
           <img src={github} alt="GitHub icon" className="github-image" />
         </a>
       </div>
@@ -55,35 +43,7 @@ export const Projects = () => {
           <li>Using MongoDB Atlas as a cloud database</li>
           <li>Using Handlebars.js for server-side rendering (SSR)</li>
         </ul>
-        <a
-          href="https://github.com/davinez/library_express"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img src={github} alt="GitHub icon" className="github-image" />
-        </a>
-      </div>
-
-      <div className="project-card">
-        <img src={auth} alt="Project JWT MERN Screenshot" />
-        <a
-          href="https://davinez-mern-auth.netlify.app"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="projects-link"
-        >
-          MERN JWT Authentication
-        </a>
-        <ul className="projects-list">
-          <li>User Authentication and Authorization using JSON Web Token</li>
-          <li>Developed with Expres/React/MongoDB</li>
-          <li>To test access you can use 'admin1' 'pass2'</li>
-        </ul>
-        <a
-          href="https://github.com/davinez/mern-auth"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="https://github.com/davinez/library_express" target="_blank" rel="noopener noreferrer">
           <img src={github} alt="GitHub icon" className="github-image" />
         </a>
       </div>
@@ -104,57 +64,7 @@ export const Projects = () => {
           <li>Used react-router</li>
           <li>Used local JSON file to render shop items</li>
         </ul>
-        <a
-          href="https://github.com/davinez/shopping-cart-react"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img src={github} alt="GitHub icon" className="github-image" />
-        </a>
-      </div>
-
-      <div className="project-card">
-        <img src={cvbuilder} alt="Project CV Builder Screenshot" />
-        <a
-          href="https://davinez.github.io/cv-builder-react/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="projects-link"
-        >
-          CV Builder
-        </a>
-        <ul className="projects-list">
-          <li>React for user interface</li>
-          <li>Used Class Components</li>
-        </ul>
-        <a
-          href="https://github.com/davinez/cv-builder-react"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img src={github} alt="GitHub icon" className="github-image" />
-        </a>
-      </div>
-
-      <div className="project-card">
-        <img src={todo} alt="Project ToDo Screenshot" />
-        <a
-          href="https://davinez.github.io/ToDo-List/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="projects-link"
-        >
-          ToDo App
-        </a>
-        <ul className="projects-list">
-          <li>Vanilla Javascript for user interface</li>
-          <li>DOM manipulation with vanilla JS</li>
-        </ul>
-        <a
-          href="https://github.com/davinez/ToDo-List"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="https://github.com/davinez/shopping-cart-react" target="_blank" rel="noopener noreferrer">
           <img src={github} alt="GitHub icon" className="github-image" />
         </a>
       </div>
