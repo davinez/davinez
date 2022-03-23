@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/davinez/static/css/main.3ea9188a.chunk.css",
-    "main.js": "/davinez/static/js/main.0ddfb9bd.chunk.js",
-    "main.js.map": "/davinez/static/js/main.0ddfb9bd.chunk.js.map",
+    "main.css": "/davinez/static/css/main.939e240d.chunk.css",
+    "main.js": "/davinez/static/js/main.5a830509.chunk.js",
+    "main.js.map": "/davinez/static/js/main.5a830509.chunk.js.map",
     "runtime-main.js": "/davinez/static/js/runtime-main.b302c605.js",
     "runtime-main.js.map": "/davinez/static/js/runtime-main.b302c605.js.map",
     "static/js/2.5ee12706.chunk.js": "/davinez/static/js/2.5ee12706.chunk.js",
     "static/js/2.5ee12706.chunk.js.map": "/davinez/static/js/2.5ee12706.chunk.js.map",
     "index.html": "/davinez/index.html",
-    "static/css/main.3ea9188a.chunk.css.map": "/davinez/static/css/main.3ea9188a.chunk.css.map",
+    "static/css/main.939e240d.chunk.css.map": "/davinez/static/css/main.939e240d.chunk.css.map",
     "static/js/2.5ee12706.chunk.js.LICENSE.txt": "/davinez/static/js/2.5ee12706.chunk.js.LICENSE.txt",
     "static/media/auth.b82c8d26.png": "/davinez/static/media/auth.b82c8d26.png",
-    "static/media/book.23a71387.svg": "/davinez/static/media/book.23a71387.svg",
+    "static/media/book.47db938c.svg": "/davinez/static/media/book.47db938c.svg",
     "static/media/cafe.acab0be0.svg": "/davinez/static/media/cafe.acab0be0.svg",
-    "static/media/controller.851a68a7.svg": "/davinez/static/media/controller.851a68a7.svg",
+    "static/media/controller.b114b4e1.svg": "/davinez/static/media/controller.b114b4e1.svg",
     "static/media/cvbuilder.7c4ebb71.png": "/davinez/static/media/cvbuilder.7c4ebb71.png",
-    "static/media/github.22e65707.svg": "/davinez/static/media/github.22e65707.svg",
+    "static/media/github.1dbcf7b2.svg": "/davinez/static/media/github.1dbcf7b2.svg",
     "static/media/inventory.aa95bbe4.png": "/davinez/static/media/inventory.aa95bbe4.png",
     "static/media/libraryexpress.06c2176e.png": "/davinez/static/media/libraryexpress.06c2176e.png",
-    "static/media/linkedin.2eda7bdd.svg": "/davinez/static/media/linkedin.2eda7bdd.svg",
-    "static/media/music.d59aa865.svg": "/davinez/static/media/music.d59aa865.svg",
+    "static/media/linkedin.fe8721c9.svg": "/davinez/static/media/linkedin.fe8721c9.svg",
+    "static/media/music.f945aeb0.svg": "/davinez/static/media/music.f945aeb0.svg",
     "static/media/shopping.38897aa1.png": "/davinez/static/media/shopping.38897aa1.png",
     "static/media/Home.css": "/davinez/static/media/space.717ecc48.jpg",
     "static/media/todo.eb995991.png": "/davinez/static/media/todo.eb995991.png",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.b302c605.js",
     "static/js/2.5ee12706.chunk.js",
-    "static/css/main.3ea9188a.chunk.css",
-    "static/js/main.0ddfb9bd.chunk.js"
+    "static/css/main.939e240d.chunk.css",
+    "static/js/main.5a830509.chunk.js"
   ]
 }
